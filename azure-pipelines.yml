@@ -1,6 +1,7 @@
 trigger:
 - aks
 
+
 variables:
   dockerRegistryServiceConnection: 'ACR'
   imageRepository: 'azure-vote-front'
